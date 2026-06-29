@@ -35,3 +35,6 @@ def list1():
     for i in mylist:
         print(i)
 list1()
+
+num  = int(input("enter your number :- "))
+print(num)
