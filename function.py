@@ -60,3 +60,17 @@ file = open("funtry.py","w")
 a.sort()
 file.write(str(a))
 file.close()
+
+import math
+
+a = 100
+b = 10
+c = -102
+
+print(math.sqrt(a))
+print(math.pow(a,2))
+print(math.factorial(b))
+print(math.fabs(c))
+print(math.gcd(a,b))
+print(math.pi)
+
